@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1475008746 source:e:\sandisk secureaccess\iotnode_a\iotnode\main.cpp
+	<iostream>
+	"iotDataQueue.h"
+
+1475008478 e:\sandisk secureaccess\iotnode_a\iotnode\include\iotdataqueue.h
+
